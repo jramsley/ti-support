@@ -1,0 +1,12 @@
+{
+  "name": "ti-support",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bent": "latest"
+  },
+  "scripts": {
+    "removeCourse": "node index.js"
+  }
+}
